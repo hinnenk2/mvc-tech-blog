@@ -2,7 +2,9 @@
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## User Story
-
+* AS A developer who writes about tech
+* I WANT a CMS-style blog site
+* SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ## Description
 * User will initiate the app via login using their own mysql username and password set to the .env file. 
@@ -32,8 +34,10 @@
 * This project is under the MIT license.
 
 ## Deployed Link:
+* https://mvc-tech-blog-ih-4585ac12d82a.herokuapp.com/
 
 ## Screenshots
+
 
 ## Repo
 (https://github.com/hinnenk2/mvc-tech-blog)
