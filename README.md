@@ -15,7 +15,7 @@
 - [Usage](#usage)
 - [Questions](#questions)
 - [License](#license)
-- [Deployed Link](#deployedlink)
+- [Deployed Link](#deployed-link)
 - [Screenshots](#screenshots)
 
 ## Installation
