@@ -37,7 +37,15 @@
 * https://mvc-tech-blog-ih-4585ac12d82a.herokuapp.com/
 
 ## Screenshots
+* Landing Page
 
+* Sign-Up Page
 
+* Comment Page
+
+* Edit Page
+
+* Post Board
+ 
 ## Repo
 (https://github.com/hinnenk2/mvc-tech-blog)
